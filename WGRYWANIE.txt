@@ -1,0 +1,74 @@
+CEREAXIS LABS — STRONA STATYCZNA
+Wersja przygotowana: 21 października 2026
+
+JAK URUCHOMIĆ
+
+1. Rozpakuj Cereaxis-Labs.zip.
+2. Do głównego katalogu strony na hostingu wgraj WSZYSTKIE pliki .html
+   oraz cały folder assets. Zachowaj nazwy i strukturę folderów.
+3. Plikiem startowym jest index.html. Nie zmieniaj nazwy na html.index.
+4. Strona nie wymaga Node.js, Pythona, bazy danych ani instalowania bibliotek.
+5. Do lokalnego sprawdzenia otwórz index.html w przeglądarce po rozpakowaniu.
+   Samego index.html nie należy przenosić bez pozostałych plików i assets.
+
+STRUKTURA
+
+index.html                  — powitanie i prezentacja oferty
+cereaxis-labs.html           — o marce, początku i etapie rozwoju
+uslugi.html                  — przegląd usług i przebieg współpracy
+automatyzacja.html           — doradztwo w automatyzacji
+strony-internetowe.html      — tworzenie stron internetowych
+integracje-ai.html           — integracja systemów AI
+michal-florczak.html         — pełna osobista wizytówka
+kontakt.html                 — dane i sposoby kontaktu
+polityka-prywatnosci.html    — zasady przetwarzania danych
+regulamin.html               — zasady korzystania z serwisu informacyjnego
+pliki-cookies.html           — cookies, lokalna pamięć i ustawienia
+assets/                     — oryginalne logo, ikona, zdjęcie, style, skrypt, VCF
+
+DZIAŁANIE
+
+Domyślne ustawienia: język polski i jasny motyw.
+Przyciski EN/PL i motywu są dostępne w nagłówku na każdej podstronie.
+Menu na telefonie otwiera przycisk obok przełączników.
+Język i motyw są przenoszone między podstronami w ich adresach.
+W stopce przycisk „Ustawienia strony” pozwala dobrowolnie zapamiętać wybór
+na 180 dni. Wyłączenie zapamiętywania albo przywrócenie ustawień domyślnych
+usuwa zapis. Nie ma analityki, reklam ani zewnętrznych fontów.
+
+Przyciski e-mail otwierają aplikację pocztową użytkownika.
+Strona nie wysyła wiadomości samodzielnie i nie zbiera danych formularzem.
+„Pobierz kontakt” w wizytówce udostępnia plik VCF.
+
+DO UZUPEŁNIENIA PRZED PUBLIKACJĄ
+
+Na podstawie podanych danych Cereaxis Labs jest niezarejestrowaną inicjatywą
+Michała Florczaka, założoną w październiku 2026, na etapie startowym.
+Nie dopisano NIP, REGON, KRS ani formy prawnej.
+
+Brakuje następujących informacji:
+- pełny adres operatora do kontaktu/doręczeń; dotychczas podano tylko
+  Poznań, województwo wielkopolskie, i adres e-mail;
+- dostawca i rzeczywista konfiguracja hostingu, lokalizacja infrastruktury,
+  zakres logów, ich okres przechowywania oraz ewentualne dodatkowe cookies,
+  narzędzia lub odbiorcy danych wprowadzani przez hosting/CDN.
+
+Trzy dokumenty zawierają widoczną notę o uzupełnieniu tych danych.
+Nie należy usuwać jej przed rzeczywistym uzupełnieniem informacji.
+Nie są to regulaminy sprzedaży, sklepu ani indywidualnych umów projektowych.
+Zakres, wynagrodzenie i warunki płatnej współpracy wymagają osobnych ustaleń.
+
+SPRAWDZENIE
+
+Sprawdzono wszystkie lokalne odnośniki, identyfikatory, nagłówki i zasoby.
+Potwierdzono zgodność logo i ikony z oryginalnymi plikami.
+Testy w emulatorze DOM objęły 11 podstron, tłumaczenia, wybór motywu,
+nawigację, brak zapisu bez zgody, zapis na 180 dni, wycofanie, reset,
+wygasanie, obsługę file:// oraz zamykanie menu klawiszem Escape.
+
+Kontrola wizualna tej wersji w przeglądarce NIE została potwierdzona:
+narzędzie automatycznego podglądu było niedostępne podczas przygotowania.
+Przed publikacją należy otworzyć stronę na docelowym hostingu i ocenić
+układ na komputerze i telefonie.
+
+Oryginalnych plików graficznych nie zmodyfikowano.
