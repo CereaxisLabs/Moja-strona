@@ -1,0 +1,138 @@
+{
+  "privacy": {
+    "title": ["Polityka prywatności", "Privacy policy"],
+    "lead": ["Jak przetwarzane są dane związane z odwiedzeniem strony i kontaktem z Michałem Florczakiem. Aktualizacja: 21 października 2026 r.", "How data relating to website visits and contact with Michał Florczak is processed. Updated: 21 October 2026."],
+    "sections": [
+      {
+        "id": "administrator",
+        "title": ["Administrator danych", "Data controller"],
+        "paragraphs": [
+          ["Administratorem jest Michał Florczak, twórca niezarejestrowanej inicjatywy Cereaxis Labs. Kontakt: cereaxislabs@gmail.com, +48 730 625 189, Poznań, Polska.", "The controller is Michał Florczak, creator of the unregistered Cereaxis Labs initiative. Contact: cereaxislabs@gmail.com, +48 730 625 189, Poznań, Poland."],
+          ["Adres operatora: {OPERATOR_ADDRESS}", "Operator address: {OPERATOR_ADDRESS}"]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "zakres",
+        "title": ["Zakres serwisu", "Website scope"],
+        "paragraphs": [
+          ["Strona ma charakter informacyjny. Nie udostępnia formularzy kontaktowych ani formularzy przesyłających dane, kont, newslettera, płatności ani sklepu. Nie zawiera analityki, reklam, osadzonych map, filmów ani widżetów społecznościowych. Zdjęcie, logo i pozostałe zasoby są dostarczane z plików strony; nie pobieramy fontów z Google Fonts.", "This is an informational website. It has no contact or data-submission forms, accounts, newsletter, payments or shop. It contains no analytics, advertising, embedded maps, videos or social widgets. The photograph, logo and other assets are served from the website files; no fonts are fetched from Google Fonts."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "cele",
+        "title": ["Dane i cele przetwarzania", "Data and processing purposes"],
+        "paragraphs": [
+          ["Wiadomość email lub rozmowa może zawierać Twoje imię, dane kontaktowe, firmę i treść sprawy. Odpowiadanie i prowadzenie korespondencji opieramy na prawnie uzasadnionym interesie komunikacji — art. 6 ust. 1 lit. f RODO. Przy działaniach przed zawarciem umowy bezpośrednio z Tobą zastosowanie może mieć art. 6 ust. 1 lit. b RODO. Podanie danych jest dobrowolne; bez kontaktu zwrotnego odpowiedź może być niemożliwa.", "An email or conversation may include your name, contact information, company and enquiry. Responding and maintaining correspondence relies on our legitimate interest in communication — Article 6(1)(f) GDPR. Steps requested before entering a contract directly with you may rely on Article 6(1)(b) GDPR. Providing data is voluntary; without a return contact, a response may be impossible."],
+          ["Dostarczenie i ochrona strony może wymagać przetwarzania adresu IP, czasu połączenia, adresu podstrony, informacji o przeglądarce i błędach. Podstawą jest prawnie uzasadniony interes zapewnienia działania i bezpieczeństwa serwisu, art. 6 ust. 1 lit. f RODO. Nie podejmujemy decyzji opartych wyłącznie na automatycznym przetwarzaniu ani nie prowadzimy profilowania.", "Delivering and protecting the website may involve an IP address, connection time, page address, browser information and errors. This relies on our legitimate interest in website availability and security, Article 6(1)(f) GDPR. We do not make decisions based solely on automated processing or carry out profiling."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "dostawcy",
+        "title": ["Dostawcy i przechowywanie", "Providers and retention"],
+        "paragraphs": [
+          ["Korespondencja trafia do skrzynki Gmail. Google oraz dostawca hostingu mogą przetwarzać dane w zakresie swoich usług; organy publiczne mogą je otrzymać, gdy wymaga tego prawo. Informacja o hostingu, logach i ich retencji: {HOSTING_DETAILS}", "Correspondence is received through Gmail. Google and the hosting provider may process data within their respective services; public authorities may receive data where legally required. Hosting, logging and retention information: {HOSTING_DETAILS}"],
+          ["Korespondencję zachowujemy przez czas obsługi sprawy. Gdy dokumentuje współpracę lub potencjalne roszczenia, odpowiednie dane mogą pozostać do upływu właściwego terminu przedawnienia albo obowiązku ustawowego. Nie przechowujemy danych dłużej, niż uzasadnia dany cel.", "Correspondence is retained while the matter is handled. Where it documents collaboration or potential claims, relevant data may be retained until the applicable limitation period or statutory retention obligation ends. Data is not kept longer than justified by its purpose."],
+          ["Google korzysta z infrastruktury międzynarodowej, co może wiązać się z przetwarzaniem poza EOG. Jego polityka prywatności opisuje zasady i zabezpieczenia transferów; informacje o rozwiązaniach właściwych dla używanej usługi można uzyskać u administratora. Nie deklarujemy, że wszystkie dane pozostają wyłącznie w Polsce lub UE.", "Google uses international infrastructure, which may involve processing outside the EEA. Its privacy policy describes transfer arrangements and safeguards; information on the arrangements applicable to the service used can be requested from the controller. We do not claim that all data remains exclusively in Poland or the EU."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "prawa",
+        "title": ["Twoje prawa", "Your rights"],
+        "paragraphs": [
+          ["W granicach przewidzianych przez RODO możesz żądać dostępu, sprostowania, usunięcia lub ograniczenia przetwarzania, przeniesienia danych oraz wnieść sprzeciw wobec przetwarzania opartego na uzasadnionym interesie. Gdy podstawą jest zgoda, można ją cofnąć bez wpływu na wcześniejsze zgodne z prawem działania. Żądania kieruj na email administratora. Możesz również wnieść skargę do Prezesa UODO.", "Subject to GDPR conditions, you may request access, correction, erasure, restriction or portability, and object to processing based on legitimate interests. Where consent is the basis, it may be withdrawn without affecting earlier lawful processing. Send requests to the controller’s email. You may also lodge a complaint with the President of the Polish Personal Data Protection Office (UODO)."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "linki",
+        "title": ["Ustawienia i serwisy zewnętrzne", "Preferences and external services"],
+        "paragraphs": [
+          ["Lokalne zapamiętywanie języka i motywu opisuje osobna Polityka cookies i ustawień. LinkedIn otwiera się dopiero po kliknięciu odnośnika; serwis nie ładuje jego widżetu. Po przejściu obowiązują zasady LinkedIn. Przycisk email uruchamia Twoją aplikację pocztową; wysłanie wiadomości wymaga Twojego działania. Politykę aktualizujemy przy zmianie funkcji lub sposobu przetwarzania.", "Local language and theme storage is explained in the separate Cookies and preferences policy. LinkedIn opens only after you follow its link; this website does not load a LinkedIn widget. LinkedIn’s own rules apply after navigation. The email button opens your mail application; sending a message requires your action. This policy is updated when functionality or processing changes."]
+        ],
+        "bullets": []
+      }
+    ]
+  },
+  "terms": {
+    "title": ["Regulamin serwisu", "Website terms"],
+    "lead": ["Zasady bezpłatnego korzystania z serwisu informacyjnego Cereaxis Labs. Aktualizacja: 21 października 2026 r.", "Terms for using the free Cereaxis Labs informational website. Updated: 21 October 2026."],
+    "sections": [
+      {
+        "id": "operator",
+        "title": ["Operator i charakter inicjatywy", "Operator and initiative"],
+        "paragraphs": [
+          ["Serwis prowadzi Michał Florczak, Poznań, Polska; adres: {OPERATOR_ADDRESS}; email: cereaxislabs@gmail.com; telefon: +48 730 625 189. Cereaxis Labs to niezarejestrowana inicjatywa technologiczna założona w październiku 2026 r., obecnie na etapie startowym. Nazwa marki i określenie Founder & CEO opisują rolę założyciela; nie oznaczają zarejestrowanej spółki.", "The website is operated by Michał Florczak, Poznań, Poland; address: {OPERATOR_ADDRESS}; email: cereaxislabs@gmail.com; telephone: +48 730 625 189. Cereaxis Labs is an unregistered technology initiative founded in October 2026 and currently at an early stage. The brand name and Founder & CEO designation describe the founder’s role; they do not identify a registered company."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "funkcje",
+        "title": ["Zakres i warunki korzystania", "Scope and use"],
+        "paragraphs": [
+          ["Bezpłatnie udostępniamy informacje o inicjatywie, usługach, profilu Michała Florczaka i kontakcie, a także zmianę języka i motywu. Korzystanie z funkcji informacyjnych rozpoczyna się przez otwarcie strony i kończy przez jej opuszczenie. Konto nie jest wymagane. Regulamin można zapisać lub wydrukować z przeglądarki.", "We provide free information about the initiative, services, Michał Florczak’s profile and contact, together with language and theme controls. Use of the informational functions starts when the website is opened and ends when it is left. No account is required. These terms can be saved or printed from the browser."],
+          ["Potrzebne są przeglądarka i dostęp do internetu. JavaScript obsługuje przełączniki, ustawienia i animacje; treści informacyjne pozostają czytelne bez tych efektów. Używaj aktualnego oprogramowania. Nie przesyłaj zwykłym emailem haseł ani szczególnie poufnych danych. Zabronione jest dostarczanie treści bezprawnych, zakłócanie działania strony i naruszanie praw innych osób.", "A browser and internet access are required. JavaScript supports controls, preferences and animations; informational content remains readable without these effects. Use up-to-date software. Do not send passwords or particularly confidential data through ordinary email. Providing unlawful content, disrupting the website and infringing other people’s rights is prohibited."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "wspolpraca",
+        "title": ["Zapytania i współpraca", "Enquiries and collaboration"],
+        "paragraphs": [
+          ["Opisy zapraszają do rozmowy o projekcie. Przeglądanie strony lub wysłanie zapytania nie stanowi zamówienia odpłatnej usługi. Zakres prac, wynagrodzenie, harmonogram, rezultaty, odbiór, prawa do materiałów i wsparcie wymagają osobnych ustaleń przed realizacją. Informacje o aktywach cyfrowych przedstawiają profil zawodowy autora i nie są indywidualną rekomendacją inwestycyjną.", "Service descriptions invite a project discussion. Browsing or sending an enquiry does not order a paid service. Scope, fees, schedule, deliverables, acceptance, rights to materials and support require separate agreement before work begins. Digital asset information describes the author’s professional profile and is not a personal investment recommendation."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "prawa-materialy",
+        "title": ["Materiały i odpowiedzialność", "Materials and responsibility"],
+        "paragraphs": [
+          ["Teksty, fotografia i logo mogą podlegać ochronie prawnej. Można korzystać z nich w zakresie dozwolonym przez prawo; szersze wykorzystanie wymaga odpowiedniej podstawy. Zewnętrzne serwisy działają na własnych warunkach. Dokładamy starań, aby treści były aktualne, lecz opis projektu nie gwarantuje określonych wyników biznesowych. Regulamin nie wyłącza odpowiedzialności ani uprawnień, których nie można ograniczyć przepisami umownymi.", "Text, the photograph and logo may be legally protected. They may be used as permitted by law; broader use requires an appropriate legal basis. External services operate under their own terms. We aim to keep information current, but a project description does not guarantee particular business results. These terms do not exclude responsibility or rights that cannot lawfully be limited by agreement."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "reklamacje",
+        "title": ["Uwagi, reklamacje i zmiany", "Feedback, complaints and updates"],
+        "paragraphs": [
+          ["Problemy z serwisem zgłaszaj na cereaxislabs@gmail.com, opisując zdarzenie i podając kontakt zwrotny. Odpowiemy bez zbędnej zwłoki, docelowo w ciągu 14 dni. Zasady ochrony danych opisuje Polityka prywatności. Aktualizacje regulaminu wskazują datę i dotyczą przyszłego korzystania; nie zmieniają automatycznie wcześniej zawartych indywidualnych umów.", "Report website issues to cereaxislabs@gmail.com, describing the incident and providing a return contact. We will respond without undue delay, aiming for 14 days. Data protection is explained in the Privacy policy. Updates to these terms show their date and apply to future use; they do not automatically amend previously agreed individual contracts."]
+        ],
+        "bullets": []
+      }
+    ]
+  },
+  "cookies": {
+    "title": ["Cookies i ustawienia", "Cookies and preferences"],
+    "lead": ["Kontrola nad lokalnymi ustawieniami przeglądarki. Aktualizacja: 21 października 2026 r.", "Control over local browser preferences. Updated: 21 October 2026."],
+    "sections": [
+      {
+        "id": "technologie",
+        "title": ["Co wykorzystuje strona", "What the website uses"],
+        "paragraphs": [
+          ["Kod serwisu nie ustawia cookies reklamowych ani analitycznych. Zmiana języka i motywu działa bez trwałego zapisu. Jedyną opcjonalną pamięcią przeglądarki jest localStorage służący zapamiętywaniu tych dwóch ustawień. Ewentualne technologie dodane przez dostawcę hostingu wymagają osobnego uwzględnienia: {HOSTING_DETAILS}", "The website code does not set advertising or analytics cookies. Language and theme controls work without persistent storage. The only optional browser storage is localStorage used to remember these two preferences. Any technologies added by the hosting provider must be separately accounted for: {HOSTING_DETAILS}"]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "zapamietywanie",
+        "title": ["Dobrowolne zapamiętywanie", "Optional remembering"],
+        "paragraphs": [
+          ["Dopiero włączenie opcji „Zapamiętaj ustawienia na 180 dni” zapisuje klucz cereaxis.preferences.v2. Zawiera on wybrany język (lang), motyw (theme) i termin ważności (expires). Służy odtworzeniu Twojego wyboru, a nie identyfikowaniu ani śledzeniu użytkowników. Zapis pozostaje na urządzeniu; kod strony nie wysyła go do administratora.", "Only enabling “Remember preferences for 180 days” stores the cereaxis.preferences.v2 key. It contains the selected language (lang), theme (theme) and expiry time (expires). It restores your choice rather than identifying or tracking visitors. The entry remains on your device; website code does not send it to the controller."],
+          ["Po wygaśnięciu zapisu strona usuwa go przy następnym odczycie i wraca do ustawień domyślnych. Zapis może wcześniej zniknąć wskutek ustawień lub czyszczenia przeglądarki. Brak zgody nie ogranicza dostępu do treści i przełączników.", "After expiry, the website removes the entry when it is next read and returns to its defaults. Browser settings or clearing browsing data may remove it earlier. Declining does not restrict access to content or controls."]
+        ],
+        "bullets": []
+      },
+      {
+        "id": "usuniecie",
+        "title": ["Zmiana decyzji i usunięcie", "Changing your choice and deleting data"],
+        "paragraphs": [
+          ["Wyłącz zapamiętywanie w ustawieniach strony lub użyj przycisku resetowania, aby usunąć zapis. Możesz również skasować dane witryny w przeglądarce. Cofnięcie wyboru nie wpływa na wcześniejszy zapis, ale kończy jego dalsze wykorzystywanie. Pytania dotyczące ustawień kieruj na cereaxislabs@gmail.com.", "Disable remembering in website preferences or use the reset button to delete the entry. You can also clear website data in your browser. Withdrawing your choice does not affect earlier storage but ends its subsequent use. Send preference-related questions to cereaxislabs@gmail.com."]
+        ],
+        "bullets": []
+      }
+    ]
+  }
+}
