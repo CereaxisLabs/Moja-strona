@@ -1,0 +1,26 @@
+CEREAXIS LABS — KOMPLETNA STRONA
+
+Cała działająca strona znajduje się bezpośrednio w folderze „html portfolio”.
+Nie ma już drugiego folderu do wgrania ani potrzeby wybierania części projektu.
+
+Na GitHub Pages wgraj zawartość tego folderu: wszystkie pliki HTML,
+cały folder assets oraz plik .nojekyll. Plik index.html jest stroną startową.
+Zachowaj nazwy plików i układ folderów.
+
+13 podstron zawiera całą ofertę, profil Michała Florczaka, kontakt,
+oba formularze zapytań, regulamin, prywatność i ustawienia.
+Folder assets zawiera wszystkie style, skrypty, oryginalne logo, ikonę,
+zdjęcie, nowe nagranie angielskie oraz wizytówkę kontaktową.
+
+Strona korzysta z HTML, CSS i JavaScript. Nie wymaga dodatkowego programu,
+instalacji, backendu ani zewnętrznej usługi formularzy.
+Formularze przygotowują treść e-maila; klient sam wysyła wiadomość
+ze swojej aplikacji pocztowej. Przy długiej treści może skopiować pełny brief.
+
+Prywatny film i tekst reklamowy nie są częścią strony.
+Narzędzia, testy, duplikaty, podglądy i wcześniejsze wersje przeniesiono
+poza folder witryny. Nie są potrzebne do jej działania.
+
+Ukryty folder .git zachowano jako historię i konfigurację repozytorium.
+
+Przed publiczną publikacją uzupełnij pełny adres operatora w dokumentach.
